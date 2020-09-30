@@ -1,0 +1,7 @@
+{"list":[
+            { 'pimsId': '123456', 'name': 'Abhishek Dubey', 'dateOfVisit': '26/09/2020', 'reason': 'H/W change', 'comment': 'laptop broken', 'action': 'action' },
+            { 'pimsId': '234567', 'name': 'Aditi Agarwal', 'dateOfVisit': '26/09/2020', 'reason': 'H/W change', 'comment': 'laptop broken', 'action': 'action' },
+            { 'pimsId': '345678', 'name': 'Kapil Kumar', 'dateOfVisit': '26/09/2020', 'reason': 'H/W change', 'comment': 'laptop broken', 'action': 'action' },
+            { 'pimsId': '456789', 'name': 'Amit Vatsyan', 'dateOfVisit': '26/09/2020', 'reason': 'H/W change', 'comment': 'laptop broken', 'action': 'action' },
+        ]
+        }
